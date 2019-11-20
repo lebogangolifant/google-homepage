@@ -33,12 +33,14 @@
                 vertical-align: middle;
                 text-decoration: none;
                 cursor: pointer;
+                margin-top: 6px;
                 padding-right: 10px;
             }
             
             li.material-icons {
                 font-size: 30px;
                 padding: 10px 0 0 0;
+                color: #5F6368;
                 display: inline-block;
             }
             
@@ -96,7 +98,7 @@
                 color: #5F6368;
                 font-family: arial, sans-serif;
                 font-size: 14px;
-                margin: 11px 4px;
+                margin: 30px 4px;
                 padding: 0 16px;
                 line-height: 27px;
                 height: 36px;
