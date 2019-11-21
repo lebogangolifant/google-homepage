@@ -37,6 +37,11 @@
                 padding-right: 10px;
             }
             
+            header,
+            a:hover {
+                text-decoration: underline;
+            }
+            
             li.material-icons {
                 font-size: 30px;
                 padding: 10px 0 0 0;
@@ -76,7 +81,7 @@
                 cursor: text;
                 height: 30px;
                 padding: 10px;
-                text-align: center;
+                text-align: left;
             }
             
             .search_bar i {
@@ -148,6 +153,6 @@
             #right_footer a {
                 text-align: left;
                 color: #5F6368;
-                padding: 10px 27px 0 0;
+                padding: 5px 27px 0 0;
                 float: right;
             }
